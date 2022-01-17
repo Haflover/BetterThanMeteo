@@ -3,11 +3,11 @@ Simple Weather Web Application (Honestly better than Meteo) Using API's from OPE
 
 ReactJS/HTML/CSS/Firebase
 
-|──build
-|──public
-|──src
-   |──CityComponent.js
-   |──WeatherInfoComponent.js
+├── build
+├── public
+├── src
+   ├── CityComponent.js
+   ├── WeatherInfoComponent.js
    |──modules
        |──icons
        |──cloudy.svg
