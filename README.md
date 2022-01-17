@@ -36,3 +36,36 @@ ReactJS/HTML/CSS/Firebase
    ├──setupTests.js
         ├──icons
 ├──firebase
+
+📦src
+ ┣ 📂modules
+ ┃ ┣ 📂icons
+ ┃ ┃ ┣ 📜.~lock.5e7e4968ea0461ff.pptx#
+ ┃ ┃ ┣ 📜cloudy-night.svg
+ ┃ ┃ ┣ 📜cloudy.svg
+ ┃ ┃ ┣ 📜day.svg
+ ┃ ┃ ┣ 📜haze.svg
+ ┃ ┃ ┣ 📜homeclock.svg
+ ┃ ┃ ┣ 📜humidity.svg
+ ┃ ┃ ┣ 📜night.svg
+ ┃ ┃ ┣ 📜perfect-day.svg
+ ┃ ┃ ┣ 📜pexels_background.jpg
+ ┃ ┃ ┣ 📜pressure.svg
+ ┃ ┃ ┣ 📜rain-night.svg
+ ┃ ┃ ┣ 📜rain.svg
+ ┃ ┃ ┣ 📜snow.svg
+ ┃ ┃ ┣ 📜storm.svg
+ ┃ ┃ ┣ 📜sunny.svg
+ ┃ ┃ ┣ 📜temp.svg
+ ┃ ┃ ┗ 📜wind.svg
+ ┃ ┣ 📜CityComponent.js
+ ┃ ┗ 📜WeatherInfoComponent.js
+ ┣ 📜App.css
+ ┣ 📜App.js
+ ┣ 📜App.test.js
+ ┣ 📜index.css
+ ┣ 📜index.js
+ ┣ 📜logo.svg
+ ┣ 📜pexels_background.png
+ ┣ 📜reportWebVitals.js
+ ┗ 📜setupTests.js
