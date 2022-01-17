@@ -19,7 +19,7 @@ const Container = styled.div`
 `;
 const AppLabel = styled.div`
   color: black;
-  font-size: 40px;
+  font-size: 60px;
   font-weight: bold;
 `;
 
@@ -40,7 +40,7 @@ function App() {
 
   return (
     <Container>
-      <AppLabel>Simple Weather Application</AppLabel>
+      <AppLabel>Better Than Meteo</AppLabel>
 
       {city && weather ? (
         <WeatherComponent weather={weather} city={city} />
